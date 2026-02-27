@@ -1,0 +1,13 @@
+Year,Waste_Diverted_MT,Capacity_TPD,Revenue_USD_M,Source_Waste,Source_Capacity,Verified_Anchor
+2012,373,8,0.25,AIM2Flourish,Estimated,True
+2013,1200,12,0.5,Interpolated,Estimated,False
+2014,3500,22,0.82,Interpolated,Estimated,False
+2015,7800,32,1.3,Interpolated,Estimated,False
+2016,16500,60,2.2,Interpolated,Estimated,False
+2017,29200,100,4.6,IFC 2023,IFC 2023,True
+2018,58000,195,7.6,Interpolated,Estimated,False
+2019,93000,295,10.0,AIM2Flourish,Estimated,True
+2020,122000,375,11.2,Interpolated,Estimated,False
+2021,146000,448,12.8,Interpolated,Estimated,False
+2022,175000,560,14.2,IFC 2023,IFC 2023,True
+2023,182000,700,16.0,BRSR FY23,BRSR FY23,True
