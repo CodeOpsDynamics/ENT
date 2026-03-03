@@ -124,7 +124,9 @@ ENT/
 │   ├── CHART_04_ghg.png
 │   ├── CHART_05_picker.png
 │   ├── CHART_06_funding.png
-│   └── Combined_Dashboard.png
+│   ├── CHART_07_dashboard.png
+│   ├── CHART_08_kmeans.png
+│   └── CHART_09_regression.png
 │
 └── README.md
 ```
